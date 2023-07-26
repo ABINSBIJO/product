@@ -1,0 +1,12 @@
+#searchtext{
+   position: relative;
+   left: 400px;
+    width: 400px;
+}
+#bsearch
+{
+
+    position: relative;
+    left: 900px;
+    bottom: 40px;
+}
